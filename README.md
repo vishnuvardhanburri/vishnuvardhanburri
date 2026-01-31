@@ -8,9 +8,15 @@
   </a>
   <a href="https://www.toptal.com/developers/resume/vishnu-vardhan-burri">
     <img src="https://img.shields.io/badge/Toptal-Top%203%25-3863A0?style=for-the-badge&logo=toptal&logoColor=white"/>
+  <p align="left">
+  <a href="https://github.com/vishnuvardhanburri/engineering-decisions">
+    <img src="https://img.shields.io/badge/Engineering%20Judgment-Read%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href=[https://github.com/vishnuvardhanburri/engineering-decisions](https://github.com/vishnuvardhanburri/engineering-decisions)">
-    <img src="https://img.shields.io/badge/Engineering%20Decisions-Read-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/vishnuvardhanburri/engineering-decisions/blob/main/DECISIONS.md">
+    <img src="https://img.shields.io/badge/Architecture%20Defaults-DECISIONS.md-black?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/vishnuvardhanburri/engineering-decisions/blob/main/FAILURES.md">
+    <img src="https://img.shields.io/badge/Postmortems-FAILURES.md-black?style=for-the-badge"/>
   </a>
 </p>
 
