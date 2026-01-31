@@ -9,7 +9,7 @@
   <a href="https://www.toptal.com/developers/resume/vishnu-vardhan-burri">
     <img src="https://img.shields.io/badge/Toptal-Top%203%25-3863A0?style=for-the-badge&logo=toptal&logoColor=white"/>
   </a>
-  <a href=https://github.com/vishnuvardhanburri/engineering-decisions">
+  <a href=[https://github.com/vishnuvardhanburri/engineering-decisions](https://github.com/vishnuvardhanburri/engineering-decisions)">
     <img src="https://img.shields.io/badge/Engineering%20Decisions-Read-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
