@@ -86,11 +86,12 @@ We help teams:
 ---
 
 ## 📌 Want the Deep Version?
+
 <p align="left">
-  <a href="https://github.com/vishnunaniinfo/engineering-decisions">
+  <a href="https://github.com/vishnuvardhanburri/engineering-decisions/blob/main/FAILURES.md">
     <img src="https://img.shields.io/badge/Read%20Postmortems-FAILURES.md-black?style=for-the-badge"/>
   </a>
-  <a href="https://github.com/vishnunaniinfo/engineering-decisions">
+  <a href="https://github.com/vishnuvardhanburri/engineering-decisions/blob/main/DECISIONS.md">
     <img src="https://img.shields.io/badge/Architecture%20Defaults-DECISIONS.md-black?style=for-the-badge"/>
   </a>
 </p>
