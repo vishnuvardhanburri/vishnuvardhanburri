@@ -1,5 +1,5 @@
 # Vishnu Vardhan Burri
-**Senior Software Engineer · Backend & Systems · Toptal Top 3% Developer**  
+** Software Engineer · Backend & Systems · Toptal Top 3% Developer**  
 **Founder & CEO — Xavira Techlabs**
 
 <p align="left">
