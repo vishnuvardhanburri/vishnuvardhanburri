@@ -15,8 +15,8 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=vishnuvardhanburri&style=flat-square&color=0ea5e9&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/vishnuvardhanburri?style=flat-square&color=0284c7&label=Followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=vishnuvardhanburri&style=flat-square&color=0ea5e9&label=Profile+Views)](https://github.com/vishnuvardhanburri)
+[![GitHub followers](https://img.shields.io/github/followers/vishnuvardhanburri?style=flat-square&color=0284c7&label=Followers)](https://github.com/vishnuvardhanburri?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/vishnuvardhanburri?style=flat-square&color=f59e0b&label=Total+Stars)](https://github.com/vishnuvardhanburri)
 ![License](https://img.shields.io/badge/Based_in-London,_UK_🇬🇧-22c55e?style=flat-square)
 
