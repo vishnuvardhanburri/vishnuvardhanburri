@@ -1,22 +1,22 @@
 <div align="center">
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=36&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=60&lines=Vishnu+Vardhan+Burri" alt="Vishnu Vardhan Burri" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=38&duration=0&pause=0&color=00D9FF&center=true&vCenter=true&width=640&height=65&lines=Vishnu+Vardhan+Burri" alt="Vishnu Vardhan Burri" />
 </h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=18&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&height=40&lines=Founder+%26+CEO+%40+XAVIRA+Technologies;Toptal+Top+3%25+SDE+%2F+ML+Engineer;AI+Systems+%7C+Distributed+Architecture+%7C+Cybersecurity;Building+systems+that+survive+at+scale." alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&width=720&height=44&lines=Software+Design+Engineer;Full+Stack+Engineer;Security+%26+Cryptography+Engineer;Systems+Architect+%7C+Distributed+Systems;AI+%2F+ML+Engineer;Founder+%26+CEO+%40+XAVIRA+Technologies" alt="Roles" />
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-vishnuvardhanburri.in-6366f1?style=for-the-badge&labelColor=0d1117)](https://www.vishnuvardhanburri.in/)
-[![XAVIRA](https://img.shields.io/badge/🏢_XAVIRA-xaviratechlabs.com-7c3aed?style=for-the-badge&labelColor=0d1117)](https://xaviratechlabs.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-vishnuvardhanburri.in-0ea5e9?style=for-the-badge&labelColor=0d1117)](https://www.vishnuvardhanburri.in/)
+[![XAVIRA](https://img.shields.io/badge/🏢_XAVIRA-xaviratechlabs.com-0284c7?style=for-the-badge&labelColor=0d1117)](https://xaviratechlabs.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/vishnuvardhanburri)
 [![Book a Call](https://img.shields.io/badge/📅_Book_15min-cal.com-00B4D8?style=for-the-badge&labelColor=0d1117)](https://cal.com/vishnuvardhanburri/15min)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=vishnuvardhanburri&style=flat-square&color=6366f1&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/vishnuvardhanburri?style=flat-square&color=7c3aed&label=Followers)
+![Profile Views](https://komarev.com/ghpvc/?username=vishnuvardhanburri&style=flat-square&color=0ea5e9&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/vishnuvardhanburri?style=flat-square&color=0284c7&label=Followers)
 [![GitHub stars](https://img.shields.io/github/stars/vishnuvardhanburri?style=flat-square&color=f59e0b&label=Total+Stars)](https://github.com/vishnuvardhanburri)
 ![License](https://img.shields.io/badge/Based_in-London,_UK_🇬🇧-22c55e?style=flat-square)
 
@@ -154,12 +154,12 @@ print(me.quote())
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vishnuvardhanburri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=7c3aed&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuvardhanburri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vishnuvardhanburri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=38BDF8&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuvardhanburri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=vishnuvardhanburri&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=7c3aed&currStreakLabel=6366f1" width="55%" />
+  <img src="https://streak-stats.demolab.com?user=vishnuvardhanburri&theme=tokyonight&hide_border=true&background=0d1117&ring=00D9FF&fire=38BDF8&currStreakLabel=00D9FF" width="55%" />
 </div>
 
 ---
@@ -221,8 +221,8 @@ print(me.quote())
 **I work with founders, CTOs, and engineering teams to architect systems that scale.**
 
 [![Email](https://img.shields.io/badge/Email-vishnuvardhanburri@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishnuvardhanburri@gmail.com)
-[![Book 15min](https://img.shields.io/badge/📅_Book_a_15min_Call-cal.com/vishnuvardhanburri-6366f1?style=for-the-badge)](https://cal.com/vishnuvardhanburri/15min)
-[![XAVIRA](https://img.shields.io/badge/🏢_Hire_via_XAVIRA-xaviratechlabs.com-7c3aed?style=for-the-badge)](https://xaviratechlabs.com)
+[![Book 15min](https://img.shields.io/badge/📅_Book_a_15min_Call-cal.com/vishnuvardhanburri-00D9FF?style=for-the-badge)](https://cal.com/vishnuvardhanburri/15min)
+[![XAVIRA](https://img.shields.io/badge/🏢_Hire_via_XAVIRA-xaviratechlabs.com-38BDF8?style=for-the-badge)](https://xaviratechlabs.com)
 
 <br/>
 
