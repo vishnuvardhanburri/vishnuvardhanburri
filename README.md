@@ -1,17 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vishnu%20Vardhan%20Burri&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Founder%20%26%20CEO%20%40%20XAVIRA%20Technologies%20%C2%B7%20Toptal%20Top%203%25%20SDE%2FML%20Engineer&descAlignY=55&descSize=16" width="100%"/>
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=36&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=60&lines=Vishnu+Vardhan+Burri" alt="Vishnu Vardhan Burri" />
+</h1>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=18&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&height=40&lines=Founder+%26+CEO+%40+XAVIRA+Technologies;Toptal+Top+3%25+SDE+%2F+ML+Engineer;AI+Systems+%7C+Distributed+Architecture+%7C+Cybersecurity;Building+systems+that+survive+at+scale." alt="Typing" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3500&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=Engineering+Intelligence.+Building+Systems.+Shipping+Impact.;Founder+%26+CEO+%40+XAVIRA+Technologies+%F0%9F%9A%80;Toptal+Top+3%25+%C2%B7+AI+%2F+ML+%2F+Systems+Engineer+%F0%9F%94%A5)](https://git.io/typing-svg)
+<br/><br/>
 
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-vishnuvardhanburri.in-6366f1?style=for-the-badge&labelColor=0d1117)](https://www.vishnuvardhanburri.in/)
-[![XAVIRA](https://img.shields.io/badge/%F0%9F%8F%A2_XAVIRA-xaviratechlabs.com-7c3aed?style=for-the-badge&labelColor=0d1117)](https://xaviratechlabs.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-vishnuvardhanburri.in-6366f1?style=for-the-badge&labelColor=0d1117)](https://www.vishnuvardhanburri.in/)
+[![XAVIRA](https://img.shields.io/badge/🏢_XAVIRA-xaviratechlabs.com-7c3aed?style=for-the-badge&labelColor=0d1117)](https://xaviratechlabs.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/vishnuvardhanburri)
-[![Book a Call](https://img.shields.io/badge/%F0%9F%93%85_Book_15min-cal.com-00B4D8?style=for-the-badge&labelColor=0d1117)](https://cal.com/vishnuvardhanburri/15min)
+[![Book a Call](https://img.shields.io/badge/📅_Book_15min-cal.com-00B4D8?style=for-the-badge&labelColor=0d1117)](https://cal.com/vishnuvardhanburri/15min)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=vishnuvardhanburri&style=flat-square&color=6366f1&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/vishnuvardhanburri?style=flat-square&color=7c3aed&label=Followers)
+[![GitHub stars](https://img.shields.io/github/stars/vishnuvardhanburri?style=flat-square&color=f59e0b&label=Total+Stars)](https://github.com/vishnuvardhanburri)
+![License](https://img.shields.io/badge/Based_in-London,_UK_🇬🇧-22c55e?style=flat-square)
 
 </div>
 
@@ -30,20 +37,20 @@ class VishnuVardhanBurri:
 
     def tech(self):
         return {
-            "languages":   ["Python", "Rust", "TypeScript", "Java", "Go", "C++"],
-            "ai_ml":       ["PyTorch", "TensorFlow", "LangChain", "Hugging Face", "ONNX", "SAM"],
-            "backend":     ["FastAPI", "Next.js", "Docker", "Kubernetes", "gRPC", "PostgreSQL"],
-            "security":    ["VAPT", "WAF", "Zero-Trust", "ZK-Proofs", "OpenSSF", "Linux Hardening"],
-            "cloud":       ["Azure", "GCP", "AWS", "Terraform", "GitHub Actions", "Render"],
-            "databases":   ["PostgreSQL", "MongoDB", "Redis", "PostGIS", "Supabase"],
+            "languages":  ["Python", "Rust", "TypeScript", "Java", "Go", "C++"],
+            "ai_ml":      ["PyTorch", "TensorFlow", "LangChain", "Hugging Face", "ONNX", "SAM"],
+            "backend":    ["FastAPI", "Next.js", "Docker", "Kubernetes", "gRPC", "PostgreSQL"],
+            "security":   ["VAPT", "WAF", "Zero-Trust", "ZK-Proofs", "OpenSSF", "Linux Hardening"],
+            "cloud":      ["Azure", "GCP", "AWS", "Terraform", "GitHub Actions", "Render"],
+            "databases":  ["PostgreSQL", "MongoDB", "Redis", "PostGIS", "Supabase"],
         }
 
     def current_build(self):
         return {
-            "PyWAF":            "Open-source WAF with real-time ML threat detection",
-            "ZK-Proof Engine":  "OpenSSF GOLD certified cryptographic verification (Rust)",
-            "Sovereign-Shield": "Private AI governance framework for enterprise",
-            "Geospatial AI":    "SAM + PostGIS satellite imagery analysis pipeline",
+            "PyWAF":           "Open-source WAF with real-time ML threat detection",
+            "ZK-Proof Engine": "OpenSSF GOLD certified cryptographic verification (Rust)",
+            "Sovereign-Shield":"Private AI governance framework for enterprise",
+            "Geospatial AI":   "SAM + PostGIS satellite imagery analysis pipeline",
         }
 
     def quote(self):
@@ -57,7 +64,7 @@ print(me.quote())
 
 ## ⚡ What I Build
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -83,17 +90,17 @@ print(me.quote())
 
 ### 🔐 Cybersecurity & Cryptography
 - VAPT on web & Linux systems
-- Zero-Knowledge Proof engine (Rust + OpenSSF GOLD)
-- Web Application Firewall (PyWAF — open source)
+- Zero-Knowledge Proof engine (Rust · OpenSSF GOLD)
+- Web Application Firewall — PyWAF (open source)
 - Zero-trust architecture for AI deployments
 
 </td>
 <td width="50%" valign="top">
 
 ### 🦀 Rust & Systems Programming
-- Cryptographic primitive libraries (OpenSSF SILVER)
 - Quantum-Security-Fabric (quantum-resistant crypto)
-- Vardhan Quantum — high-perf primitives in Rust
+- Vardhan Quantum — high-perf primitives (OpenSSF SILVER)
+- ZK-Proof Engine — cryptographic verification
 - Memory-safe systems at bare-metal performance
 
 </td>
@@ -147,14 +154,12 @@ print(me.quote())
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vishnuvardhanburri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=7c3aed&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuvardhanburri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" />
+</div>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=vishnuvardhanburri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=7c3aed&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuvardhanburri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=vishnuvardhanburri&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=7c3aed&currStreakLabel=6366f1" width="60%" />
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=vishnuvardhanburri&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=7c3aed&currStreakLabel=6366f1" width="55%" />
 </div>
 
 ---
@@ -163,49 +168,47 @@ print(me.quote())
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
-| [**PyWAF**](https://github.com/vishnuvardhanburri/pywaf) | Open-source WAF — real-time ML threat detection & automated mitigation | Python, ML, Docker | 🟢 Active |
-| [**ZK-Proof Engine**](https://github.com/vishnuvardhanburri/zk-proof-engine) | OpenSSF **GOLD** certified zero-knowledge cryptographic verification | Rust, WASM | 🟢 Active |
-| [**Vardhan Quantum**](https://github.com/vishnuvardhanburri/vardhan-quantum) | High-perf quantum cryptographic primitives — OpenSSF **SILVER** | Rust | 🟢 Active |
-| [**Sovereign-Shield**](https://github.com/vishnuvardhanburri/sovereign-shield) | Private AI governance & compliance framework for enterprises | Python, LangChain | 🔵 Beta |
-| [**Geospatial AI**](https://github.com/vishnuvardhanburri/Geospatial-AI) | SAM + PostGIS satellite imagery analysis pipeline | Python, PostGIS | 🟢 Active |
-| [**Weather Prediction**](https://github.com/vishnuvardhanburri/weather-prediction) | Live AI weather forecasting — PWA, Docker, deployed on Render | Python, TensorFlow | 🟢 Live |
+| **PyWAF** | Open-source WAF — real-time ML threat detection & automated mitigation | Python, ML, Docker | 🟢 Active |
+| **ZK-Proof Engine** | OpenSSF **GOLD** certified zero-knowledge cryptographic verification | Rust, WASM | 🟢 Active |
+| **Vardhan Quantum** | High-perf quantum cryptographic primitives — OpenSSF **SILVER** | Rust | 🟢 Active |
+| **Sovereign-Shield** | Private AI governance & compliance framework for enterprises | Python, LangChain | 🔵 Beta |
+| **Geospatial AI** | SAM + PostGIS satellite imagery analysis pipeline | Python, PostGIS | 🟢 Active |
+| **Weather Prediction** | Live AI weather forecasting — PWA, Docker, deployed on Render | Python, TensorFlow | 🟢 Live |
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishnuvardhanburri/vishnuvardhanburri/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishnuvardhanburri/vishnuvardhanburri/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vishnuvardhanburri/vishnuvardhanburri/output/github-contribution-grid-snake.svg" />
-</picture>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishnuvardhanburri/vishnuvardhanburri/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishnuvardhanburri/vishnuvardhanburri/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/vishnuvardhanburri/vishnuvardhanburri/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ---
 
-## 🌐 Experience Highlights
+## 🏢 Experience
 
 ```
-🏢  XAVIRA Technologies          Founder, CEO & Principal Architect      2024 – Present
+🏢  XAVIRA Technologies     Founder, CEO & Principal Architect     2024 – Present
     Premier Engineering Intelligence & Systems Architecture firm
-    → Production AI infrastructure for venture-backed startups
+    → AI infrastructure for venture-backed startups
 
-🌍  Toptal                        Senior SDE / ML Engineer (Top 3%)       2026 – Present
-    Globally verified top 3% SDE/ML engineer
+🌍  Toptal                   Senior SDE / ML Engineer (Top 3%)     2026 – Present
+    Globally verified top 3% software & ML engineer
 
-💼  Microsoft                     ML / Software Engineering Intern         2025
+💼  Microsoft                ML / Software Engineering Intern       2025
     Production Python ML systems
 
-🔐  IIIT Allahabad               Cybersecurity Intern                     2023 – 2024
-    VAPT on web & Linux systems (faculty-guided research)
+🔐  IIIT Allahabad           Cybersecurity Intern                   2023 – 2024
+    VAPT on web & Linux systems
 
-🚀  Ripan Technologies            Software Developer Intern                2024
+🚀  Ripan Technologies       Software Developer Intern              2024
     API optimization — 30% response time improvement
 
-🎓  The Apollo University         B.Tech CSE (Cybersecurity)              2021 – 2025
+🎓  The Apollo University    B.Tech CSE (Cybersecurity)            2021 – 2025
     GPA: 9.59 / 10
 ```
 
@@ -217,12 +220,12 @@ print(me.quote())
 
 **I work with founders, CTOs, and engineering teams to architect systems that scale.**
 
-[![Email](https://img.shields.io/badge/Email-vishnuvardhanburri%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishnuvardhanburri@gmail.com)
-[![Book 15min](https://img.shields.io/badge/%F0%9F%93%85_Book_a_15min_Call-cal.com%2Fvishnuvardhanburri-6366f1?style=for-the-badge)](https://cal.com/vishnuvardhanburri/15min)
-[![XAVIRA](https://img.shields.io/badge/%F0%9F%8F%A2_Hire_via_XAVIRA-xaviratechlabs.com-7c3aed?style=for-the-badge)](https://xaviratechlabs.com)
+[![Email](https://img.shields.io/badge/Email-vishnuvardhanburri@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishnuvardhanburri@gmail.com)
+[![Book 15min](https://img.shields.io/badge/📅_Book_a_15min_Call-cal.com/vishnuvardhanburri-6366f1?style=for-the-badge)](https://cal.com/vishnuvardhanburri/15min)
+[![XAVIRA](https://img.shields.io/badge/🏢_Hire_via_XAVIRA-xaviratechlabs.com-7c3aed?style=for-the-badge)](https://xaviratechlabs.com)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+*"Precision engineering. Zero-trust defaults. Ship systems that survive at scale."*
 
 </div>
