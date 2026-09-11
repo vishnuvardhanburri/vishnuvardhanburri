@@ -1,10 +1,10 @@
 <div align="center">
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=38&duration=0&pause=0&color=00D9FF&center=true&vCenter=true&width=640&height=65&lines=Vishnu+Vardhan+Burri" alt="Vishnu Vardhan Burri" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=38&duration=0&pause=0&color=00D9FF&center=true&vCenter=true&width=800&height=65&lines=Vishnu+Vardhan+Burri" alt="Vishnu Vardhan Burri" />
 </h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=17&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&width=600&height=44&lines=Software+Design+Engineer;Full+Stack+Engineer;Security+and+Cryptography+Engineer;Systems+Architect;AI+and+ML+Engineer;Founder+and+CEO+at+XAVIRA+Technologies" alt="Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&width=800&height=44&lines=Software+Design+Engineer;Full+Stack+Engineer;Security+and+Cryptography+Engineer;Systems+Architect;AI+and+ML+Engineer;Founder+and+CEO+at+XAVIRA+Technologies" alt="Roles" />
 
 <br/><br/>
 
