@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=38&duration=0&pause=0&color=00D9FF&center=true&vCenter=true&width=800&height=65&lines=%20Vishnu+Vardhan+Burri%20" alt="Vishnu Vardhan Burri" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=38&color=00D9FF&center=true&vCenter=true&width=800&height=65&lines=%20Vishnu+Vardhan+Burri%20" alt="Vishnu Vardhan Burri" />
 </h1>
 
 <br/>
