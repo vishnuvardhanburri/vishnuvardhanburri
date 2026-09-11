@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=38&duration=0&pause=0&color=00D9FF&center=true&vCenter=true&width=640&height=65&lines=Vishnu+Vardhan+Burri" alt="Vishnu Vardhan Burri" />
 </h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&width=900&v=2&height=44&lines=Software+Design+Engineer;Full+Stack+Engineer;Security+%26+Cryptography+Engineer;Systems+Architect+%7C+Distributed+Systems;AI+%2F+ML+Engineer;Founder+%26+CEO+%40+XAVIRA+Technologies" alt="Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=17&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&width=600&height=44&v=3&lines=Software+Design+Engineer;Full+Stack+Engineer;Security+%26+Cryptography+Engineer;Systems+Architect+%7C+Distributed+Systems;AI+%2F+ML+Engineer;Founder+%26+CEO+%40+XAVIRA+Technologies" alt="Roles" />
 
 <br/><br/>
 
